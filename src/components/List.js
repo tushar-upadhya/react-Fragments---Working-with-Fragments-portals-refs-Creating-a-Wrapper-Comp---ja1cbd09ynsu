@@ -16,4 +16,3 @@ import ListItems from './ListItems';
 }
 
 export default List;
-Footer
